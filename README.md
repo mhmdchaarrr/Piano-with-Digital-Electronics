@@ -8,7 +8,6 @@
 ![Keys](https://img.shields.io/badge/Keys-8-ff69b4?style=for-the-badge)
 ![Supply](https://img.shields.io/badge/Supply-5V-red?style=for-the-badge)
 ![Simulated](https://img.shields.io/badge/Simulated%20in-Tinkercad-orange?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen?style=for-the-badge)
 
 </div>
 
